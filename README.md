@@ -25,5 +25,5 @@ Currently there are 148 colors tied to names you can use in html / css. These co
 
 ####Thank you to:
 
-[Tobias Wright](https://github.com/tobiaswright) - Supplied the list of "Causes" and colors they are associated with.
-[Andrew Mussey](https://github.com/amussey) - Wrote JS to quickly convert Hex Values to RGB Values.
+* [Tobias Wright](https://github.com/tobiaswright) - Supplied the list of "Causes" and colors they are associated with.
+* [Andrew Mussey](https://github.com/amussey) - Wrote JS to quickly convert Hex Values to RGB Values.
