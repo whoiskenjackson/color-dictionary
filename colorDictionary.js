@@ -1,4 +1,4 @@
-var colorDictionary = [
+var cssColorDictionary = [
 	{
 		"name": "aliceblue",
 		"hex": "f0f8ff",
